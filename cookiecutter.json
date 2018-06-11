@@ -16,6 +16,6 @@
         "Other"
     ],
     "gui_framework": [
-        "Toga",
+        "Toga"
     ]
 }
